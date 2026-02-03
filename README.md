@@ -49,27 +49,31 @@ Execute a aplicação:
 npm start
 
 ```
-📚 Aprendizados
+### 📚 Aprendizados
 
-Desenvolvimento de aplicações mobile com React Native
+- Desenvolvimento de aplicações mobile com React Native
 
-Organização de componentes e gerenciamento de estado
+- Organização de componentes e gerenciamento de estado
 
-Construção de interfaces funcionais
+- Construção de interfaces funcionais
 
-Boas práticas iniciais de código
+- Boas práticas iniciais de código
 
-🚧 Próximas Melhorias
+---
 
-Integração com API backend
+### 🚧 Próximas Melhorias
 
-Validações de formulário
+- Integração com API backend
 
-Persistência de dados
+- Validações de formulário
 
-Melhorias de UI/UX
+- Persistência de dados
 
-👨‍💻 Autor
+- Melhorias de UI/UX
 
-Desenvolvido por Matheus Silveira Feques
-GitHub: https://github.com/MsFeques
+---
+
+### 👨‍💻 Autor
+
+- Desenvolvido por Matheus Silveira Feques
+- GitHub: https://github.com/MsFeques
