@@ -76,4 +76,4 @@ npm start
 ### 👨‍💻 Autor
 
 - Desenvolvido por Matheus Silveira Feques
-- GitHub: https://github.com/MsFeques
+- GitHub: [https://github.com/MsFeques](https://github.com/msfeques)
