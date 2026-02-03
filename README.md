@@ -47,3 +47,29 @@ npm install
 Execute a aplicação:
 
 npm start
+
+```
+📚 Aprendizados
+
+Desenvolvimento de aplicações mobile com React Native
+
+Organização de componentes e gerenciamento de estado
+
+Construção de interfaces funcionais
+
+Boas práticas iniciais de código
+
+🚧 Próximas Melhorias
+
+Integração com API backend
+
+Validações de formulário
+
+Persistência de dados
+
+Melhorias de UI/UX
+
+👨‍💻 Autor
+
+Desenvolvido por Matheus Silveira Feques
+GitHub: https://github.com/MsFeques
