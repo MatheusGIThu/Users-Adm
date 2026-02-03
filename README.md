@@ -8,42 +8,42 @@ O projeto tem como objetivo praticar conceitos fundamentais de desenvolvimento m
 
 ## 🚀 Funcionalidades
 
-- Cadastro de usuários
-- Listagem de usuários cadastrados
-- Visualização de informações individuais
-- Interface simples e focada em usabilidade
+- Cadastro de usuários  
+- Listagem de usuários cadastrados  
+- Visualização de informações individuais  
+- Interface simples e focada em usabilidade  
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- React Native
-- JavaScript
-- Expo (se estiver usando, mantenha; se não, pode remover)
-- Componentes funcionais
-- Hooks básicos (`useState`, `useEffect`)
+- React Native  
+- JavaScript  
+- Expo *(se estiver utilizando)*  
+- Componentes funcionais  
+- Hooks básicos (`useState`, `useEffect`)  
 
 ---
 
 ## 📂 Estrutura do Projeto
 
-- Organização em componentes reutilizáveis
-- Separação entre lógica e interface
-- Código simples e de fácil manutenção
+- Organização em componentes reutilizáveis  
+- Separação entre lógica e interface  
+- Código simples e de fácil manutenção  
 
 ---
 
 ## ▶️ Como Executar o Projeto
 
-1. Clone o repositório:
-bash
+Clone o repositório:
+```bash
 git clone https://github.com/MatheusGIThu/Users-Adm.git
+Acesse a pasta do projeto:
 
-2. Acesse a pasta do projeto:
 cd Users-Adm
+Instale as dependências:
 
-3.Instale as dependências:
 npm install
+Execute a aplicação:
 
-4.Execute a aplicação:
 npm start
