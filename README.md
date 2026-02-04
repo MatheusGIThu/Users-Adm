@@ -19,7 +19,7 @@ O projeto tem como objetivo praticar conceitos fundamentais de desenvolvimento m
 
 - React Native  
 - JavaScript  
-- Expo *(se estiver utilizando)*  
+- Expo
 - Componentes funcionais  
 - Hooks básicos (`useState`, `useEffect`)  
 
